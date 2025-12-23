@@ -1,0 +1,2 @@
+#To stop tracking all .exe files
+*.exe
