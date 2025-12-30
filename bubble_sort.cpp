@@ -30,7 +30,7 @@ int main() {
     // Create solution object
     Solution sol;
 
-    // Apply quicksort
+    // Apply bubblesort
     sol.bubbleSort(arr, arr.size());
 
     // Print sorted array

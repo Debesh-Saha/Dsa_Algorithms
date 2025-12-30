@@ -34,7 +34,7 @@ int main() {
     // Create solution object
     Solution sol;
 
-    // Apply quicksort
+    // Apply selectionsort
     sol.selectionSort(arr, arr.size());
 
     // Print sorted array
