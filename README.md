@@ -12,4 +12,4 @@ This repository is used to store and organize algorithm and data structure conce
 
 ## 🔢 Sorting
 
-#### 1. Bubble Sort: Push the maximum to last by adjacent swapping.
+#### 1. Bubble Sort: Push the maximum to last by adjacent swapping. Time Complexity- O(n2): Worst/Average Case, O(n): Best Case.
